@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<div align="center">
+<img src="https://github.com/AleksandrMeshkov/Ackerman/raw/main/levi-ackerman-anime.gif" align="center" style="width: 100%" />
+</div>
 <!--
 **AleksandrMeshkov/AleksandrMeshkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
