@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://github.com/AleksandrMeshkov/Ackerman/raw/main/levi-ackerman-anime.gif" align="center" style="width: 100%" />
+<div align="center" style="width:100%; margin:0 auto;">
+  <img src="https://github.com/AleksandrMeshkov/Ackerman/raw/main/levi-ackerman-anime.gif" style="width:100%; max-height:400px; object-fit:cover; object-position:center;" alt="Header GIF">
 </div>
 
 # Hello, I'm Alexander 👋 
@@ -44,7 +44,6 @@ I specialize in building modern web applications and mobile solutions with focus
 ### DevOps
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
 </p>
 
 ### Design
