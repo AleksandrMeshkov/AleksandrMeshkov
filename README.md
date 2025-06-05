@@ -65,6 +65,5 @@ I specialize in building modern web applications and mobile solutions with focus
 
 ### Design
 <p>
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
