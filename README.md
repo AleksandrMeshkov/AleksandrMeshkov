@@ -3,7 +3,6 @@
 </div>
 
 # Hello, I'm Alexander 👋 
-### Full Stack Developer (Web & Mobile)
 
 I specialize.
 
