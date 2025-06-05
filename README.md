@@ -7,16 +7,6 @@
 
 I specialize in building modern web applications and mobile solutions with focus on clean code, scalable architecture, and great user experience.
 
-## 📫 Contact Me
-<p align="center">
-  <a href="https://vk.com/m4shkove">
-    <img src="https://img.shields.io/badge/VKontakte-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK">
-  </a>
-  <a href="https://t.me/m4shkov">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</p>
-
 ## 🛠 Tech Stack
 
 ### Programming Languages
@@ -59,4 +49,14 @@ I specialize in building modern web applications and mobile solutions with focus
 ### Design
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+</p>
+
+## 📫 Contact Me
+<p align="center">
+  <a href="https://vk.com/m4shkove">
+    <img src="https://img.shields.io/badge/VKontakte-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK">
+  </a>
+  <a href="https://t.me/m4shkov">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
 </p>
