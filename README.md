@@ -5,7 +5,7 @@
 # Hello, I'm Alexander 👋 
 ### Full Stack Developer (Web & Mobile)
 
-I specialize in building modern web applications and mobile solutions with focus on clean code, scalable architecture, and great user experience.
+I specialize in building modern web applications and mobile solutions  great user experience.
 
 ## 🛠 Tech Stack
 
