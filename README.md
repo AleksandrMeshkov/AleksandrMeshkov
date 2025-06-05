@@ -47,7 +47,9 @@ I specialize.
 ### Design
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Microsoft_Paint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Paint">
 </p>
+
 
 ## 📫 Contact Me
 <p align="center">
